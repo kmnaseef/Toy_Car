@@ -1,0 +1,10 @@
+{
+  "additionalFiles": "..\\..,..\\..",
+  "builtInLibrariesFolders": "C:\\Users\\kmnaseef\\AppData\\Local\\Arduino15\\libraries",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "esp32:esp32:esp32wrover:UploadSpeed=115200,FlashFreq=80,FlashMode=qio,PartitionScheme=min_spiffs,DebugLevel=none,EraseFlash=none",
+  "hardwareFolders": "C:\\Users\\kmnaseef\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.8,C:\\Users\\kmnaseef\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.3.8",
+  "otherLibrariesFolders": "c:\\Users\\kmnaseef\\Documents\\Arduino\\libraries",
+  "sketchLocation": "C:\\PROJECTS\\Toy_Car\\Car_Esp32-s2Mini_Arduino"
+}

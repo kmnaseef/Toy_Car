@@ -1,0 +1,91 @@
+Added Component: Designator=A1(XCVR_ESP32-WROVER-I)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-WROVER-I"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(AXIAL-0.3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=V_reg(AMS1117 Breakout Board)
+Added Pin To Net: NetName=5v Pin=V_reg-VIN
+Added Net: Name=5v
+Added Pin To Net: NetName=GND Pin=A1-1
+Added Pin To Net: NetName=GND Pin=A1-15
+Added Pin To Net: NetName=GND Pin=A1-38
+Added Pin To Net: NetName=GND Pin=V_reg-GND
+Added Net: Name=GND
+Added Pin To Net: NetName=io0 Pin=A1-25
+Added Net: Name=io0
+Added Pin To Net: NetName=io2 Pin=A1-24
+Added Net: Name=io2
+Added Pin To Net: NetName=io4 Pin=A1-26
+Added Net: Name=io4
+Added Pin To Net: NetName=io5 Pin=A1-29
+Added Net: Name=io5
+Added Pin To Net: NetName=io12 Pin=A1-14
+Added Net: Name=io12
+Added Pin To Net: NetName=io13 Pin=A1-16
+Added Net: Name=io13
+Added Pin To Net: NetName=io14 Pin=A1-13
+Added Net: Name=io14
+Added Pin To Net: NetName=io15 Pin=A1-23
+Added Net: Name=io15
+Added Pin To Net: NetName=io18 Pin=A1-30
+Added Net: Name=io18
+Added Pin To Net: NetName=io19 Pin=A1-31
+Added Net: Name=io19
+Added Pin To Net: NetName=io21 Pin=A1-33
+Added Net: Name=io21
+Added Pin To Net: NetName=io22 Pin=A1-36
+Added Net: Name=io22
+Added Pin To Net: NetName=io23 Pin=A1-37
+Added Net: Name=io23
+Added Pin To Net: NetName=io25 Pin=A1-10
+Added Net: Name=io25
+Added Pin To Net: NetName=io26 Pin=A1-11
+Added Net: Name=io26
+Added Pin To Net: NetName=io27 Pin=A1-12
+Added Net: Name=io27
+Added Pin To Net: NetName=io32 Pin=A1-8
+Added Net: Name=io32
+Added Pin To Net: NetName=io33 Pin=A1-9
+Added Net: Name=io33
+Added Pin To Net: NetName=io34 Pin=A1-6
+Added Net: Name=io34
+Added Pin To Net: NetName=io35 Pin=A1-7
+Added Net: Name=io35
+Added Pin To Net: NetName=NetA1_2 Pin=A1-2
+Added Pin To Net: NetName=NetA1_2 Pin=R1-2
+Added Pin To Net: NetName=NetA1_2 Pin=V_reg-VOUT
+Added Net: Name=NetA1_2
+Added Pin To Net: NetName=NetA1_3 Pin=A1-3
+Added Pin To Net: NetName=NetA1_3 Pin=R1-1
+Added Net: Name=NetA1_3
+Added Pin To Net: NetName=rxd Pin=A1-34
+Added Net: Name=rxd
+Added Pin To Net: NetName=sck/clk Pin=A1-20
+Added Net: Name=sck/clk
+Added Pin To Net: NetName=scs/cmd Pin=A1-19
+Added Net: Name=scs/cmd
+Added Pin To Net: NetName=sd0 Pin=A1-21
+Added Net: Name=sd0
+Added Pin To Net: NetName=sd1 Pin=A1-22
+Added Net: Name=sd1
+Added Pin To Net: NetName=sd2 Pin=A1-17
+Added Net: Name=sd2
+Added Pin To Net: NetName=sd3 Pin=A1-18
+Added Net: Name=sd3
+Added Pin To Net: NetName=txd Pin=A1-35
+Added Net: Name=txd
+Added Pin To Net: NetName=vn Pin=A1-5
+Added Net: Name=vn
+Added Pin To Net: NetName=vp Pin=A1-4
+Added Net: Name=vp
+Added Class: Name=Sheet1
